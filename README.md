@@ -44,7 +44,7 @@ dataset from Kaggle. Key features include:
 
 ## Execution Instructions
 
-1. Open the Google Colab Notebook.
+1. Open the [Google Colab Notebook](https://colab.research.google.com/drive/1jxSO8xID69jU_KFTuN5yeUZ_828uGeCY?usp=drive_link).
 2. Upload the dataset CSV from Kaggle to your Colab environment.
 3. Select **Runtime** > **Run all**.
 
